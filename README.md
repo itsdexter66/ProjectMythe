@@ -1,5 +1,7 @@
 ## [titel van jullie game]
-Project team:[jullie namen]
+Project team
+Devs: Brandon, Sem, Jelle en Dexter.
+Artist: Calvin en Jasmin
 
 Platform:
 [jullie platfom]
