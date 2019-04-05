@@ -1,4 +1,4 @@
-## [titel van jullie game]
+## Izanagi en Izanami
 Project team
 Devs: Brandon, Sem, Jelle en Dexter.
 Artist: Calvin en Jasmin
@@ -19,7 +19,8 @@ Het tweede gedeelte speel je een platformer (denk aan mario, crash bandicoot, et
 | Link naar online product backlog (Trello) | [Backlog]
 | Logboek (pdf)                             | [Logboek]
 | Game concept doc (pdf)                    | [GameDesignDoc]
-   
+|<img width=500/>|<img width=300/>|
+
 #### Producten Werkproces 2
 | Product  | Link |
 | ------ |  ------ |
