@@ -19,7 +19,6 @@ Het tweede gedeelte speel je een platformer (denk aan mario, crash bandicoot, et
 | Link naar online product backlog (Trello) | [Backlog]
 | Logboek (pdf)                             | [Logboek]
 | Game concept doc (pdf)                    | [GameDesignDoc]
-|<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 2
 | Product  | Link |
