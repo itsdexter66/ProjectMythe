@@ -39,5 +39,5 @@ Het tweede gedeelte speel je een platformer (denk aan mario, crash bandicoot, et
    [Backlog]: <https://trello.com/b/cd42mCxv/projectmythe>
    [Logboek]: <https://github.com/itsdexter66/ProjectMythe/blob/master/Producten/project_stand_up_logboek.pdf>
    [GameDesignDoc]: <https://github.com/itsdexter66/ProjectMythe/blob/master/Producten/Mythe.pdf>
-   [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
+   
    
