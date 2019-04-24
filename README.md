@@ -33,7 +33,7 @@ Het tweede gedeelte speel je een platformer (denk aan mario, crash bandicoot, et
 | Product  | Link |
 | ------ |  ------ |
 | Sprint review verslagen (pdf)         | [ReviewVerslagen]
-| Link naar online speelbaar prototype  | [Prototype]
+| Sprint retrospective verslagen (pdf)  | [RetrospectiveVerslagen]
 | Link naar online speelbaar prototype  | [Prototype]
 | Logboek (pdf)                         | [Logboek]
 |<img width=500/>|<img width=300/>|
