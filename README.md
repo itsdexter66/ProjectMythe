@@ -25,6 +25,7 @@ Het tweede gedeelte speel je een platformer (denk aan mario, crash bandicoot, et
 | Product  | Link |
 | ------ |  ------ |
 | Online Product backlog & Sprint backlog + DoD (Trello)    | [Backlog]
+| Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]
 | Logboek (pdf)                                             | [Logboek]
 |<img width=500/>|<img width=300/>|
    
@@ -33,11 +34,13 @@ Het tweede gedeelte speel je een platformer (denk aan mario, crash bandicoot, et
 | ------ |  ------ |
 | Sprint review verslagen (pdf)         | [ReviewVerslagen]
 | Link naar online speelbaar prototype  | [Prototype]
+| Link naar online speelbaar prototype  | [Prototype]
 | Logboek (pdf)                         | [Logboek]
 |<img width=500/>|<img width=300/>|
 
    [Backlog]: <https://trello.com/b/cd42mCxv/projectmythe>
    [Logboek]: <https://github.com/itsdexter66/ProjectMythe/blob/master/Producten/project_stand_up_logboek.pdf>
    [GameDesignDoc]: <https://github.com/itsdexter66/ProjectMythe/blob/master/Producten/Mythe.pdf>
-   
+   [RetrospectiveVerslagen]: https://github.com/itsdexter66/ProjectMythe/blob/master/Producten/Sprint%20Retrospective.pdf
+   [Prototype]: https://drive.google.com/drive/folders/11q6xLOJHXo2NSvz0Hf5Iuff9HJjotYbH?usp=sharing
    
