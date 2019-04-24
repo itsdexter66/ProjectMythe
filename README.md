@@ -8,7 +8,7 @@ Mobile
 
 ### Korte omschrijving van de game
 Het is een chasing platformer. 
-Het is opgespilts in twee gameplayer gedeeltes. 
+Het is opgespilts in twee gameplaye gedeeltes. 
 Het eerste gedeelte wordt je achteraan gezeten door het monster en moet je proberen door het level te komen (obstakels)
 Het tweede gedeelte speel je een platformer (denk aan mario, crash bandicoot, etc)
 
